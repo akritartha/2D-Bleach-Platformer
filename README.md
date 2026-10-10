@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-2.x-green?logo=pygame)
 ![License](https://img.shields.io/badge/License-Fan--Made-lightgrey)
-[![Play Now](https://img.shields.io/badge/▶-Play%20on%20Web-red)](https://kritarthaadhikari.github.io/2D-Bleach-Platformer/)
+[![Play Now](https://img.shields.io/badge/▶-Play%20on%20Web-red)](https://akritartha.github.io/2D-Bleach-Platformer/)
 
 A fan-made **2D action game** inspired by the anime **Bleach**, built using **Python** and **Pygame**.
 
